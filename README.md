@@ -1,2 +1,2 @@
 # customer_segmentation
-using RFM tecnique
+using RFM technique
